@@ -1,6 +1,5 @@
-class Simple{
-  public static void main(String args[]) {
-    
-    System.out.println("Welcome to the Jenkins Tutorial");
-  }
-}
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}  
